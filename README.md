@@ -10,4 +10,4 @@ El archivo se reproduce/pausa al ejecutar una función tras pulsar el botón de 
 
 ## Arquitectura
 
-Esta aplicación ocupa un modelo simple, donde todo se ejecutaa en un solo archivo de código `main.dart`
+Esta aplicación ocupa un modelo simple, donde todo se ejecuta en un solo archivo de código `main.dart`
