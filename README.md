@@ -1,6 +1,6 @@
 ## Implementación
 
-Esta aplicación ocupa ´[audioplayers](https://pub.dev/packages/audioplayers)´ para reporducir el audio almacenado como asset.
+Esta aplicación ocupa ´[´audioplayers´](https://pub.dev/packages/audioplayers)´ para reporducir el audio almacenado como asset.
 
 Para poder llamarlo es necesario poner en 'pubsec.yaml' la carpeta que se usará para almacenar los assets.
 
