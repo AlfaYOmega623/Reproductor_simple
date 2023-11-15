@@ -28,7 +28,7 @@
 1. El archivo de sonido se reproduce.
 2. La aplicación vuelve a la interfaz principal.
 
-![Reproductor de Sonidos](URL de la imagen)
+![Reproductor de Sonidos](https://github.com/AlfaYOmega623/Reproductor_simple/blob/main/assets/Dise%C3%B1o.png?raw=true)
 
 ## Implementación
 
